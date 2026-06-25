@@ -1,6 +1,7 @@
 # Week 1 Data Science Assignment
 ## Exploratory Data Analysis — Titanic Passenger Dataset
 **Submitted by:** Maliyka Munawar
+
 **Program:** Data Science Internship Program  
 **Mentor:** Laiba Sattar 
 **Dataset:** [Titanic Passenger Data — Kaggle](https://kaggle.com/c/titanic/data)  
