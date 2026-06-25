@@ -1,10 +1,10 @@
 # Week 1 Data Science Assignment
 ## Exploratory Data Analysis — Titanic Passenger Dataset
-
+**Submitted by:** Maliyka Munawar
 **Program:** Data Science Internship Program  
-**Mentor:** Laiba Sattar (laeba0014@gmail.com)  
+**Mentor:** Laiba Sattar 
 **Dataset:** [Titanic Passenger Data — Kaggle](https://kaggle.com/c/titanic/data)  
-**Tool:** Google Colab / Jupyter Notebook
+**Tool:** Google Colab
 
 ---
 
@@ -134,26 +134,3 @@ See `requirements.txt` for full list. Core dependencies:
 - **Pivot Table Heatmap** — Survival rate by Sex × Pclass interaction
 
 ---
-
-## ✅ Assignment Checklist
-
-- [x] GitHub repository created and set to **Public**
-- [x] Jupyter notebook (`.ipynb`) uploaded
-- [x] All 7 First-Look Protocol commands implemented
-- [x] 27 total EDA commands (exceeds 20+ minimum)
-- [x] Markdown interpretation after **every** command
-- [x] Notebook has clean section headers
-- [x] 3 key findings written in plain English
-- [x] `README.md` includes name and dataset
-- [x] `requirements.txt` included
-- [x] Repository link submitted to mentor
-
----
-
-## 📬 Submission
-
-Repository link submitted to: **laeba0014@gmail.com**
-
----
-
-*"Always audit the data before you touch a model."* — Laiba Sattar
